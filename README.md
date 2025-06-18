@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/142300830?s=400&u=e27f22c3d18123150402eb3931e38ad8081a7860&v=4"  />
-</div>
-
-###
-
 <h1 align="center">Hi, I am Jibran Arshad</h1>
 
 ###
