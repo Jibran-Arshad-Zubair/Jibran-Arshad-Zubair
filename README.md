@@ -6,7 +6,14 @@
 
 ###
 
-<p align="left">I’m a Web Developer who enjoys turning ideas into websites that are easy to use and look great. I have good experience in web development and focus on building responsive and dynamic websites. I pay close attention to writing clean and organized code. I love technology and always enjoy learning new things. While I can work on both the front end and back end, I have more experience building the front end of websites and  creating Restful apis.</p>
+<p align="left"> I am a Full-Stack Web Developer with experience in building scalable
+ and responsive web applications. I focus on creating clean, user
+friendly, and modern solutions that provide real value. Alongside web
+ development, I am also working on AI-driven projects and exploring
+ new and useful technologies. I enjoy continuous learning and aim to
+ grow further by collaborating with experienced developers and
+ staying updated with industry trends. I am passionate about
+ problem- solving and love tackling real-world technical challenges.</p>
 
 ###
 
@@ -21,7 +28,7 @@
 
 ###
 
-<p align="left">Hi, I'm a Web Developer at Axis Coding Solutions<br><br>🔭 I’m working as a Web Developer, building user-friendly and responsive websites.<br><br>📚 I'm currently learning more about back-end development and new web technologies.<br><br>⚡ In my free time, I like exploring new coding tools, learning tech skills, and working on personal projects.</p>
+<p align="left">Hi, I'm a Web Developer at Axis Coding Solutions<br><br>🔭 I’m working as a Web Developer, building user-friendly and responsive websites.<br><br>📚 I'm currently learning more about AI development and new web technologies.<br><br>⚡ In my free time, I like exploring new coding tools, learning tech skills, and working on personal projects.</p>
 
 ###
 
