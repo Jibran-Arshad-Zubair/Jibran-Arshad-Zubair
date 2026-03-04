@@ -166,11 +166,11 @@ I'm a Full-Stack Web Developer who ships **scalable, user-centric web applicatio
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🏎️ **[DubaiWheels](https://github.com/Jibran-Arshad-Zubair)** | UAE-based car listings platform — discover, compare, and explore new & used vehicles with specs, prices, and reviews | `React` `Node.js` `MongoDB` |
-| ⚽ **[ScoutsCapital](https://github.com/Jibran-Arshad-Zubair)** | Global football talent discovery hub — players, scouts, agents, and clubs networking platform | `Next.js` `TypeScript` `REST API` |
+| 🏎️ **[DubaiWheels](https://dubaiwheels.ae/)** | UAE-based car listings platform — discover, compare, and explore new & used vehicles with specs, prices, and reviews | `React` `Node.js` `MongoDB` |
+| ⚽ **[ScoutsCapital](https://scoutscapital.com/)** | Global football talent discovery hub — players, scouts, agents, and clubs networking platform | `Next.js` `TypeScript` `REST API` |
 | 🏋️ **[LiftSol](https://github.com/Jibran-Arshad-Zubair)** | Pakistan-wide gym discovery & membership platform with dashboards for gym owners, admins, and partners | `React` `Express` `MongoDB` |
-| 🎮 **[SimVictus](https://github.com/Jibran-Arshad-Zubair)** | U.S.-based ecommerce platform for gaming & simulation gear with community features | `Next.js` `Node.js` `TailwindCSS` |
-| 🎨 **[Creyeti](https://github.com/Jibran-Arshad-Zubair)** | Sydney-based creative production agency — visual content, brand storytelling & media experiences | `React` `TypeScript` `REST API` |
+| 🎮 **[SimVictus](https://simvictus.com/)** | U.S.-based ecommerce platform for gaming & simulation gear with community features | `Next.js` `Node.js` `TailwindCSS` |
+| 🎨 **[Creyeti](https://www.creyeti.com.au/)** | Sydney-based creative production agency — visual content, brand storytelling & media experiences | `React` `TypeScript` `REST API` |
 | 🤖 **AI Chatbot** | OpenAI-powered chatbot integrated with LangChain for intelligent, context-driven conversations | `OpenAI` `LangChain` `Node.js` |
 
 </div>
@@ -181,14 +181,14 @@ I'm a Full-Stack Web Developer who ships **scalable, user-centric web applicatio
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jibran-Arshad-Zubair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibran-Arshad-Zubair&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jibran-Arshad-Zubair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibran-Arshad-Zubair&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jibran-Arshad-Zubair&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jibran-Arshad-Zubair&theme=tokyonight&hide_border=true&hide=currentStreak)](https://git.io/streak-stats)
 
 </div>
 
