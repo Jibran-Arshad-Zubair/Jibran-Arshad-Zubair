@@ -12,7 +12,7 @@
 
 <!-- Badges Row -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibran-arshad-96b8b4269)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://66d6118b5cc75242324a25c2--jibran-arshad-zubair-portfolio.netlify.app)
+
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranajibranarshad@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jibran-Arshad-Zubair)
 
@@ -35,11 +35,11 @@ const jibran = {
   education  : "BS Computer Engineering — COMSATS University Lahore",
   focus      : ["Scalable Web Apps", "AI Integration", "Clean Architecture"],
   openTo     : ["Full-Time Roles", "Freelance Projects", "Open Source"],
-  funFact    : "I debug in production and somehow survive 🚀",
+  funFact    : "I debug in production and somehow survive ",
 };
 ```
 
-I'm a Full-Stack Web Developer who ships **scalable, user-centric web applications** using modern JavaScript ecosystems. With 1+ year of professional experience across **3 companies** and **6+ real-world projects**, I've contributed to platforms serving users across Pakistan, the UAE, Australia, and the US. I'm actively exploring **AI-driven development** and building intelligent tools with OpenAI & LangChain.
+I'm a Full-Stack Web Developer who ships **scalable, user-centric web applications** using modern JavaScript ecosystems. With 1+ year of professional experience across **3 companies** and **8+ real-world projects**, I've contributed to platforms serving users across Pakistan, the UAE, Australia, and the US. I'm actively exploring **AI-driven development** and building intelligent tools with OpenAI & LangChain.
 
 ---
 
@@ -166,11 +166,16 @@ I'm a Full-Stack Web Developer who ships **scalable, user-centric web applicatio
 
 | Project | Description | Tech |
 |--------|-------------|------|
+
+| 🎮 **[SimVictus](https://simvictus.com/)** | U.S.-based ecommerce platform for gaming & simulation gear with community features | `Next.js` `Node.js` `TailwindCSS` |
+
+
+| 🎨 **[Creyeti](https://www.creyeti.com.au/)** | Sydney-based creative production agency — visual content, brand storytelling & media experiences | `React` `TypeScript` `REST API` |
+
 | 🏎️ **[DubaiWheels](https://dubaiwheels.ae/)** | UAE-based car listings platform — discover, compare, and explore new & used vehicles with specs, prices, and reviews | `React` `Node.js` `MongoDB` |
 | ⚽ **[ScoutsCapital](https://scoutscapital.com/)** | Global football talent discovery hub — players, scouts, agents, and clubs networking platform | `Next.js` `TypeScript` `REST API` |
+
 | 🏋️ **[LiftSol](https://github.com/Jibran-Arshad-Zubair)** | Pakistan-wide gym discovery & membership platform with dashboards for gym owners, admins, and partners | `React` `Express` `MongoDB` |
-| 🎮 **[SimVictus](https://simvictus.com/)** | U.S.-based ecommerce platform for gaming & simulation gear with community features | `Next.js` `Node.js` `TailwindCSS` |
-| 🎨 **[Creyeti](https://www.creyeti.com.au/)** | Sydney-based creative production agency — visual content, brand storytelling & media experiences | `React` `TypeScript` `REST API` |
 | 🤖 **AI Chatbot** | OpenAI-powered chatbot integrated with LangChain for intelligent, context-driven conversations | `OpenAI` `LangChain` `Node.js` |
 
 </div>
@@ -179,12 +184,7 @@ I'm a Full-Stack Web Developer who ships **scalable, user-centric web applicatio
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jibran-Arshad-Zubair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jibran-Arshad-Zubair&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
-
-</div>
 
 <div align="center">
 
@@ -211,7 +211,7 @@ I'm always open to interesting conversations, collaborations, and new opportunit
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibran-arshad-96b8b4269)
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranajibranarshad@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://66d6118b5cc75242324a25c2--jibran-arshad-zubair-portfolio.netlify.app)
+
 
 </div>
 
