@@ -209,7 +209,7 @@ I'm a Full-Stack Web Developer who ships **scalable, user-centric web applicatio
 I'm always open to interesting conversations, collaborations, and new opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibran-arshad-96b8b4269)
-[![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranajibranarshad@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ranajibranarshad@gmail.com)
 
 
 </div>
