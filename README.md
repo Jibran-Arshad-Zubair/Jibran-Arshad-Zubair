@@ -11,9 +11,11 @@
 <br/><br/>
 
 <!-- Badges Row -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jibran-arshad-96b8b4269)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ranajibranarshad@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jibran-Arshad-Zubair)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/jibran-arshad-96b8b4269)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ranajibranarshad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://jibran-arshad-zubair-portfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Jibran-Arshad-Zubair)
+
 
 <br/>
 
