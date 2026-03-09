@@ -30,12 +30,12 @@
 ```ts
 const jibran = {
   role       : "Full-Stack Software Engineer",
-  company    : "Axis Coding Solutions",
+  company    : ["Axis Coding Solutions", "XYTech"],
   experience : "1+ Years (Professional)",
   location   : "Lahore, Pakistan 🇵🇰",
   education  : "BS Computer Engineering — COMSATS University Lahore",
   focus      : ["Scalable Web Apps", "AI Integration", "Clean Architecture"],
-  openTo     : ["Full-Time Roles", "Freelance Projects", "Open Source"],
+  openTo     : ["Full-Time Roles", "Freelance Projects", "Open Source", "Contract Work", "Part-Time Roles"],
   funFact    : "I debug in production and somehow survive ",
 };
 ```
