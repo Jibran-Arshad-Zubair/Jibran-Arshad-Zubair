@@ -176,7 +176,7 @@ I'm a Full-Stack Web Developer who ships **scalable, user-centric web applicatio
 | 🏎️ **[DubaiWheels](https://dubaiwheels.ae/)** | UAE-based car listings platform — discover, compare, and explore new & used vehicles with specs, prices, and reviews | `React` `Node.js` `MongoDB` |
 | ⚽ **[ScoutsCapital](https://scoutscapital.com/)** | Global football talent discovery hub — players, scouts, agents, and clubs networking platform | `Next.js` `TypeScript` `REST API` |
 
-| 🏋️ **[LiftSol](https://github.com/Jibran-Arshad-Zubair)** | Pakistan-wide gym discovery & membership platform with dashboards for gym owners, admins, and partners | `React` `Express` `MongoDB` |
+| 🏋️ **[LiftSol](https://liftsol.pk/)** | Pakistan-wide gym discovery & membership platform with dashboards for gym owners, admins, and partners | `React` `Express` `MongoDB` |
 | 🤖 **AI Chatbot** | OpenAI-powered chatbot integrated with LangChain for intelligent, context-driven conversations | `OpenAI` `LangChain` `Node.js` |
 
 </div>
